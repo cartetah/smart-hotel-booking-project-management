@@ -38,3 +38,94 @@ This project aims to automate reservations, improve operational efficiency, and 
 - Enable secure online payments.
 - Reduce manual work.
 - Deliver the project on time and within budget.
+
+---
+
+# Business Need
+
+ABC Hospitality Group currently manages hotel reservations using manual and semi-automated processes, resulting in booking errors, operational inefficiencies, and limited customer satisfaction.
+
+The Smart Hotel Booking System will digitize the reservation process by providing customers with an online platform to search hotels, check room availability, complete secure online payments, and manage bookings efficiently.
+
+---
+
+# Project Objectives
+
+- Improve booking efficiency by 50%.
+- Reduce manual reservation processing.
+- Enable secure online payment integration.
+- Increase customer satisfaction.
+- Deliver the project within the approved budget and schedule.
+
+---
+
+# Project Scope
+
+## In Scope
+
+- User Registration
+- User Login
+- Hotel Search
+- Room Availability
+- Online Booking
+- Secure Payment Gateway
+- Booking History
+- Email Notifications
+- Admin Dashboard
+
+## Out of Scope
+
+- Hotel Property Management System (PMS)
+- Airline Booking
+- Customer Loyalty Program
+- Mobile Application (Phase 2)
+
+---
+
+# Major Deliverables
+
+- Project Charter
+- Business Case
+- Product Backlog
+- Sprint Planning
+- Hotel Booking Web Application
+- User Documentation
+- Deployment Guide
+- Project Closure Report
+
+---
+
+# High-Level Milestones
+
+| Milestone | Target |
+|-----------|--------|
+| Project Initiation | Week 1 |
+| Requirements Gathering | Week 2 |
+| Sprint 1 | Week 3–4 |
+| Sprint 2 | Week 5–6 |
+| Sprint 3 | Week 7–8 |
+| Sprint 4 | Week 9–10 |
+| User Acceptance Testing | Week 11 |
+| Production Deployment | Week 12 |
+
+---
+
+# Success Criteria
+
+The project will be considered successful if:
+
+- The system is delivered on schedule.
+- The project remains within budget.
+- All critical requirements are implemented.
+- User Acceptance Testing is successfully completed.
+- Stakeholders approve the final delivery.
+
+---
+
+# Approval
+
+| Role | Name |
+|------|------|
+| Sponsor | ABC Hospitality Group |
+| Project Manager | Cristóbal Martín Arteta Huillcahuaman |
+| Product Owner | ABC Hospitality Group |
